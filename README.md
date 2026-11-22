@@ -1,4 +1,4 @@
-# claude-skills
+# liamz-skills
 
 Index of six independent Claude skills. Each lives in its own repository and works on its own; install only the ones you want.
 
